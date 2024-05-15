@@ -3,8 +3,6 @@ Plano de Teste conforme ISO 9126:
 Nome do Sistema: [Nome do Sistema]
 
 Versão: x.x
-Danielle Farias
-
     Introdução
 
 Este documento apresenta os requisitos a serem testados, os tipos de testes definidos para cada iteração, os recursos de hardware e software necessários, e o cronograma dos testes ao longo do projeto. Ele é essencial para o acompanhamento do progresso dos testes pelo gerente de projeto.
